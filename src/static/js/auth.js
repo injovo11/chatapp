@@ -1,6 +1,6 @@
 var OKTA_SETTINGS = {
   baseUrl: "https://gracious-austin-3dbaee.netlify.app/src/",
-  clientId: "00jZ51MXHp1hnxm0cRSUN2q-tDA5kEKlljX2fbQDF6",
+  clientId: "0oa9ase3gFmIsA9Hi4x6",
   issuer: "https://dev-128049.okta.com/oauth2/default"
 };
 
