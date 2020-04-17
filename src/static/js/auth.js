@@ -1,5 +1,5 @@
 var OKTA_SETTINGS = {
-  baseUrl: "https://gracious-austin-3dbaee.netlify.app/src/",
+  baseUrl: "https://dev-128049.okta.comDashboard",
   clientId: "0oa9ase3gFmIsA9Hi4x6",
   issuer: "https://dev-128049.okta.com/oauth2/default"
 };
