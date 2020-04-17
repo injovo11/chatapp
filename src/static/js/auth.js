@@ -1,7 +1,7 @@
 var OKTA_SETTINGS = {
-  baseUrl: "https://dev-111464.oktapreview.com",
-  clientId: "0oaejf8gmll1TiDRz0h7",
-  issuer: "https://dev-111464.oktapreview.com/oauth2/default"
+  baseUrl: "https://gracious-austin-3dbaee.netlify.app/src/",
+  clientId: "00jZ51MXHp1hnxm0cRSUN2q-tDA5kEKlljX2fbQDF6",
+  issuer: "https://dev-128049.okta.com/oauth2/default"
 };
 
 var okta = new OktaSignIn({
